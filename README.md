@@ -2,11 +2,16 @@
 
 # DONATE ME PLEASE
 
+
+<img src="https://cdn-icons-png.flaticon.com/512/3039/3039788.png" width="250" title="hover text">
+
 Hello all my income is through donate you.
 So by doing this, you are helping me a lot and making me earn money and focus all my attention on building better and stronger projects.
 I promise you that if there is good financial support, I will upload the best projects that are sold on various sites for several thousand dollars for free in the Github for you so that you can use them easily.
 Thanks
 
+
+#
 
 ## USDT Wallet   => 0x80E60f88Cf7d70a3eED26c64Bd86991865Eac611
 ## RIPPLE Wallet => rHJ8ojYSW8PBW8L8XH8BVwDTKHNnHiasiY
