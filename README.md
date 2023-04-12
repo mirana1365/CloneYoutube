@@ -13,10 +13,10 @@ Thanks
 
 #
 
-## USDT Wallet   => 0x80E60f88Cf7d70a3eED26c64Bd86991865Eac611
-## RIPPLE Wallet => rHJ8ojYSW8PBW8L8XH8BVwDTKHNnHiasiY
-## ETH Wallet    => 0x80E60f88Cf7d70a3eED26c64Bd86991865Eac611
-## BTC Wallet    => 17sjcPQ4vrEhdutjrjMNeVReCNUEnhGbeN
+## USDT Wallet (TRC20)   => TAy3GAfD8abaddxR2T2DwcqCUYv2Tsz3sH
+## RIPPLE Wallet         => rPMjwXCULZZa3ncK2PC1RzhmzyiA24joXt    TAG => 373435643
+## ETH Wallet            => 0x2b4e29111043fcf941cb2b15f7cc30476d76bdca
+## BTC Wallet            => 1PUaqNHACN3yrASmcou86W9odeU2MxNLmM
 
 ## Download From Github
 
